@@ -1,6 +1,6 @@
 # Hi, I'm Bohdan Holub 👋
 
-**Senior iOS Engineer** — 10 years building Swift apps people rely on every day: mobile banking at Raiffeisen Bank Ukraine (2.7M+ users), a pet-care platform used in 150+ countries, and dozens of client products as an iOS team lead.
+**Senior iOS Engineer** — 10 years building Swift apps people rely on every day: mobile banking at Raiffeisen Bank Ukraine (2.7M+ users), a pet-care platform with 2M+ pet owners, and dozens of client products as an iOS team lead.
 
 ![Swift](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-0D84FF?logo=swift&logoColor=white)
